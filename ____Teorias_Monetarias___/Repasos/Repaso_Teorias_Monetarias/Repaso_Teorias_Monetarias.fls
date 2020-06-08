@@ -413,6 +413,10 @@ INPUT C:\Program Files\MiKTeX 2.9\tex\latex\rerunfilecheck\rerunfilecheck.sty
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\rerunfilecheck\rerunfilecheck.sty
 INPUT C:\Program Files\MiKTeX 2.9\tex\generic\uniquecounter\uniquecounter.sty
 INPUT C:\Program Files\MiKTeX 2.9\tex\generic\uniquecounter\uniquecounter.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\supertabular\supertabular.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\supertabular\supertabular.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty
 INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\Repaso_Teorias_Monetarias.aux
 INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\Repaso_Teorias_Monetarias.aux
 OUTPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\Repaso_Teorias_Monetarias.aux
@@ -451,16 +455,136 @@ INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmtt8.tfm
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmtt8.tfm
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr17.tfm
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\Repaso_Teorias_Monetarias.toc
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\Repaso_Teorias_Monetarias.toc
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmbx10.tfm
+INPUT C:\Users\DAVIDCORZO\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
+OUTPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\Repaso_Teorias_Monetarias.toc
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr17.tfm
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\jknappen\ec\tcrm1000.tfm
-INPUT C:\Users\DAVIDCORZO\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
-INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmbx10.tfm
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\jknappen\ec\tcrm0700.tfm
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\jknappen\ec\tcrm0500.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmmi12.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmex10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmss12.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmtt12.tfm
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\EC_01.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\EC_01.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\EC_01.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\EC_01.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\EC_01.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\EC_01.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\EC_01.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\EC_01.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\EC_01.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\EC_01.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\EC_01.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\EC_01.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\EC_01.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\EC_01.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\EC_01.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\EC_01.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\EC_01.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\EC_01.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\EC_01.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\EC_01.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\EC_01.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\EC_01.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\EC_01.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\EC_01.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\EC_01.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\EC_01.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\EC_01.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\EC_01.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\EC_01.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\EC_01.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\EC_01.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\EC_02.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\EC_02.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\EC_02.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\EC_02.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\EC_02.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\EC_02.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\EC_02.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\EC_02.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\EC_02.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\EC_02.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\EC_02.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\EC_02.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\EC_02.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\EC_02.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\EC_02.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\EC_02.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\EC_02.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\EC_02.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\EC_02.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\EC_02.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\EC_02.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\EC_02.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\EC_02.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\EC_02.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\EC_02.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\EC_02.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\EC_02.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\EC_02.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\EC_02.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\EC_02.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\EC_02.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\Tarea02-DavidCorzo-20190432.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\Tarea02-DavidCorzo-20190432.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\Tarea02-DavidCorzo-20190432.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\Tarea02-DavidCorzo-20190432.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\Tarea02-DavidCorzo-20190432.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\Tarea02-DavidCorzo-20190432.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\Tarea02-DavidCorzo-20190432.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\Tarea02-DavidCorzo-20190432.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\Tarea02-DavidCorzo-20190432.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\Tarea02-DavidCorzo-20190432.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\Tarea02-DavidCorzo-20190432.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\Tarea02-DavidCorzo-20190432.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\Tarea02-DavidCorzo-20190432.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\Tarea02-DavidCorzo-20190432.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\Tarea02-DavidCorzo-20190432.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\Tarea02-DavidCorzo-20190432.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\Tarea02-DavidCorzo-20190432.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\Tarea02-DavidCorzo-20190432.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\Tarea02-DavidCorzo-20190432.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\Tarea02-DavidCorzo-20190432.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\Tarea02-DavidCorzo-20190432.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\Tarea02-DavidCorzo-20190432.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\Tarea02-DavidCorzo-20190432.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\Tarea02-DavidCorzo-20190432.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\Tarea02-DavidCorzo-20190432.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\Tarea02-DavidCorzo-20190432.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\Tarea02-DavidCorzo-20190432.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\Tarea02-DavidCorzo-20190432.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\Tarea02-DavidCorzo-20190432.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\Tarea02-DavidCorzo-20190432.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\Tarea02-DavidCorzo-20190432.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\Tarea02-DavidCorzo-20190432.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\Tarea02-DavidCorzo-20190432.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\Tarea02-DavidCorzo-20190432.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\Tarea02-DavidCorzo-20190432.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\Tarea02-DavidCorzo-20190432.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\Tarea02-DavidCorzo-20190432.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\Tarea02-DavidCorzo-20190432.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\Tarea02-DavidCorzo-20190432.pdf
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\Captura.PNG
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\Captura.PNG
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\Captura.PNG
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\Captura.PNG
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\Captura.PNG
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\Captura1.PNG
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\Captura1.PNG
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\Captura1.PNG
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\Captura1.PNG
+INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\figs\Captura1.PNG
 INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\Repaso_Teorias_Monetarias.aux
 INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\Repaso_Teorias_Monetarias.out
 INPUT d:\___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\Repaso_Teorias_Monetarias.out
@@ -474,10 +598,14 @@ INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmex10.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmex10.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi10.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi12.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi12.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi7.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi7.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr7.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr7.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb

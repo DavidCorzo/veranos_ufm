@@ -13,10 +13,13 @@
 \usepackage{fancyhdr}
 \usepackage{tikz}
 \usepackage{hyperref}
+\usepackage{supertabular}
+\usepackage{float}
 \pagestyle{empty}
 
 \title{Summary on Teorías monetarias}
 \begin{document}
+\tableofcontents
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \chapter{Presentation 1}
@@ -93,7 +96,15 @@ Framework: used to analyze macroeconomic changes.
 Policy tools: tools of the government and central bank to influence money. 
 \begin{itemize}
     \item Monetary policy: printing money, supplying money, policy on monetary multiplier (RRr), these policies control inflation. 
+        \begin{itemize}
+            \item Central bank 
+            \item $\Delta m_2$ 
+        \end{itemize}
     \item Fiscal policy: policy related to taxes and government spending.
+        \begin{itemize}
+            \item Taxes and government spending
+            \item G $>$ T: deficit 
+        \end{itemize}
 \end{itemize}
 
 \section{GDP}
@@ -312,8 +323,16 @@ Inflation:
 \section{Measure changes in the cost of living}
 \begin{itemize}
     \item Consumer price index (CPI): to measure inflation government statisticians calculate based on the price level from a fixed basket of goods and services that represent an average consumer's purchases. 
-    \item Substitution bias: 
-    \item Quality / new goods bias:  
+    \item Substitution bias: n inflation rate calculated using a fixed basket of goods over time tends to overstate the true rise in the cost of living, becuase it doesn't take into account that the person can substitute away from goods whose prices rise considerably. 
+    \item Quality / new goods bias:  inflation calculate using a fixed basket of goods over time tends to overstate the true rise in cost of living, because it doesn't account for improvements in the quality of existing goods or the invention of new goods. 
+\end{itemize}
+
+\section{Additional price indices}
+\begin{itemize}
+    \item Producers Price Index (PPI): a measure of inflation based on prices paid for supplies and inputs by producers of goods and services. 
+    \item Internationl price index: a measure of inflation based on the prices of merchandise that are exported or imported. 
+    \item Employment cost index: measure of inflation based on wages paid in the labor market.
+    \item GDP deflator: a measure of inflation based on the prices of all the GDP components. 
 \end{itemize}
 
 
@@ -330,6 +349,14 @@ Inflation:
 \end{itemize}
 
 
+
+%----------------------------------------------------------------------------------------
+\section{Indexing and its limitations}
+\begin{itemize}
+    \item Indexed - a price, wage, or interest rate is adjusted automatically for inflation.
+    \item Cost of living adjustments (COLAs): wages increase as inflation increases. 
+    \item Adjustable-rate mortgage (ARM): a type of loan a borrower uses to purchase a home in which the interest rate varies with market interest rates. 
+\end{itemize}
 %----------------------------------------------------------------------------------------
 \section{Real interest rate}
 Real interest paid (Fischer equation): 
@@ -443,7 +470,9 @@ Monetary multiplier:
 \[
   \text{ Monetary multiplier formula } = \frac{1}{\text{ Reserved Requirement }} 
 \]
-This formula is the supply of money created by the banking system, how many times money can be multiplied.
+\begin{itemize}
+    \item This formula is the supply of money created by the banking system, how many times money can be multiplied.
+\end{itemize}
 
 %----------------------------------------------------------------------------------------
 \subsection{Cautions about the money multiplier}
@@ -469,13 +498,57 @@ Cautions:
     \item Governed by the ``Junta Monetaria''
 \end{itemize}
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+\chapter{Video Review}
+\section{Determinants of worker productivity} 
+\begin{itemize}
+    \item Human capital: accumulated knowledge, skill, and expertise that the average worker in an economy possesses. 
+    \item Technological change: a combination of invention and innovation.
+        \begin{itemize}
+            \item Invention - advances in knowledge 
+            \item Innovation - putting advances in knowledge to use in a new product or service.
+        \end{itemize}
+    \item Economy of scale: the cost advantages that industries obtain due to size. 
+\end{itemize}
 
+\section{Sources of economic growth}
+\begin{itemize}
+    \item Production function: the process whereby a firm turns economic inputs like labor, machinery, and raw material into outputs like goods and services that consumers use.
+    \item Aggregate production function: the process whereby an economy as a whole turns economic inputs such as human capital, physical capital, and technology into output measured as GDP per capita. 
+    \item In macroeconomics, we call the connection from inputs to outputs for the entire economy an aggregate production function.
+    \item Growth of productivity is linked to GDP per capita.
+\end{itemize}
+
+\section{Funding investment}
+\[
+  \underbrace{I}_{\text{ US Capital }} = \underbrace{S}_{\text{ Private saving }} + \underbrace{(T-G)}_{\text{ Government saving }} + \underbrace{(IM-EX)}_{\text{ Foreign saving }}
+\]
+
+\section{Three tools of central bank to $\Delta m2$ }
+\begin{enumerate}
+    \item $\Delta$RRr $\Downarrow$RRd $\rightarrow$ $\uparrow $m2
+    \item $\Delta$ discount rate 
+        \begin{itemize}
+            \item Interest rate the central bank charges banks for loans. 
+            \item $\downarrow $ discount rate $\rightarrow$ $\uparrow $m2
+            \item Open market operations 
+                \begin{itemize}
+                    \item Buying or selling of bonds.
+                \end{itemize}
+        \end{itemize}
+\end{enumerate}
+
+%----------------------------------------------------------------------------------------
+\chapter{Quiz}
+\includepdf[pages=-,pagecommand={\thispagestyle{empty}}]{figs/EC_01.pdf}
+\includepdf[pages=-,pagecommand={\thispagestyle{empty}}]{figs/EC_02.pdf}
+\includepdf[pages=-,pagecommand={\thispagestyle{empty}}]{figs/Tarea02-DavidCorzo-20190432.pdf}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \chapter{Formulary}
 \begin{center}
-    \begin{tabular}{ |p{16cm}| }
+    \begin{supertabular}{ |p{16cm}| }
         \hline
             1 billon = 0.001 million \\ 
         \hline
@@ -519,12 +592,35 @@ Cautions:
         \hline 
         Productivity:  
         \[
-            \text{ Productivity } = \frac{\text{ \#Input }}{\text{ \#Output }} 
+            \text{ Productivity } = \frac{\text{ \#Output }}{\text{ \#Input }} 
         \] \\ 
         \hline
-    \end{tabular}
+        Equation of exchange: 
+        \[
+          P_L \cdot \text{ RGDP } = \underbrace{m}_{\text{ Money supply }} \cdot \underbrace{v}_{\text{ Velocity average a dollar is spent }}
+        \] \begin{itemize}
+            \item Bitcoin has a fixed money supply thus $m$ is zero. 
+        \end{itemize}\\ 
+        \hline
+        Nominal GDP: 
+        \[
+          \text{NGDP} = P_L \cdot \text{ RGDP }
+        \] \\ 
+        \hline
+    \end{supertabular}
 \end{center}
 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\chapter{Figures}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=14cm]{figs/Captura.PNG} 
+\end{figure}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=14cm]{figs/Captura1.PNG}  
+\end{figure}
 
 
 
