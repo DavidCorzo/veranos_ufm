@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7350 64-bit) (preloaded format=pdflatex 2020.3.24)  7 JUN 2020 00:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7350 64-bit) (preloaded format=pdflatex 2020.3.24)  7 JUN 2020 21:22
 entering extended mode
 **d:/___UFM-Cursos___/3_5_Semestre-[Mayo-Julio-2020]/____SumaDeCursosUFM2.2____/____Teorias_Monetarias___/Repasos/Repaso_Teorias_Monetarias/Repaso_Teorias_Monetarias.tex
 (d:/___UFM-Cursos___/3_5_Semestre-[Mayo-Julio-2020]/____SumaDeCursosUFM2.2____/____Teorias_Monetarias___/Repasos/Repaso_Teorias_Monetarias/Repaso_Teorias_Monetarias.tex
@@ -971,32 +971,54 @@ Cap\'{\i }tulo 1.
 Cap\'{\i }tulo 2.
 [3
 
-] [4]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 164.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 164.
+] [4] [5] [6]
+Cap\'{\i }tulo 3.
+[7
+
+] [8]
+Cap\'{\i }tulo 4.
+[9
+
+] [10]
+Cap\'{\i }tulo 5.
+[11
+
+] [12] [13]
+Cap\'{\i }tulo 6.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [14
+
+]
+Overfull \vbox (14.38118pt too high) has occurred while \output is active []
+
+ [15]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 533.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 533.
  (d:/___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\Repaso_Teorias_Monetarias.aux
 LaTeX Info: Redefining \. on input line 24.
 LaTeX Info: Redefining \% on input line 24.
 LaTeX Info: Redefining \. on input line 25.
 LaTeX Info: Redefining \% on input line 25.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 164.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 164.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 533.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 533.
 Package rerunfilecheck Info: File `Repaso_Teorias_Monetarias.out' has not changed.
-(rerunfilecheck)             Checksum: 237A8999B63615AB0AE31934D1A1FE73;1224.
+(rerunfilecheck)             Checksum: 66DD2AE72AC3733C31DC7C22A5574460;3620.
  ) 
 Here is how much of TeX's memory you used:
- 34797 strings out of 480900
- 720271 string characters out of 2908365
- 1059738 words of memory out of 3000000
- 49916 multiletter control sequences out of 15000+200000
- 536659 words of font info for 40 fonts, out of 3000000 for 9000
+ 34891 strings out of 480900
+ 721318 string characters out of 2908365
+ 1061763 words of memory out of 3000000
+ 49954 multiletter control sequences out of 15000+200000
+ 537645 words of font info for 43 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,7n,107p,1778b,817s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\DAVIDCORZO\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on d:/___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\Repaso_Teorias_Monetarias.pdf (4 pages, 84080 bytes).
+ 75i,14n,107p,1778b,873s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\DAVIDCORZO\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on d:/___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\Repaso_Teorias_Monetarias.pdf (15 pages, 153971 bytes).
 PDF statistics:
- 148 PDF objects out of 1000 (max. 8388607)
- 22 named destinations out of 1000 (max. 500000)
- 245 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 364 PDF objects out of 1000 (max. 8388607)
+ 75 named destinations out of 1000 (max. 500000)
+ 517 words of extra memory for PDF output out of 10000 (max. 10000000)
 
