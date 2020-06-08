@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7350 64-bit) (preloaded format=pdflatex 2020.3.24)  7 JUN 2020 23:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7350 64-bit) (preloaded format=pdflatex 2020.3.24)  8 JUN 2020 09:29
 entering extended mode
 **d:/___UFM-Cursos___/3_5_Semestre-[Mayo-Julio-2020]/____SumaDeCursosUFM2.2____/____Teorias_Monetarias___/Repasos/Repaso_Teorias_Monetarias/Repaso_Teorias_Monetarias.tex
 (d:/___UFM-Cursos___/3_5_Semestre-[Mayo-Julio-2020]/____SumaDeCursosUFM2.2____/____Teorias_Monetarias___/Repasos/Repaso_Teorias_Monetarias/Repaso_Teorias_Monetarias.tex
@@ -1020,253 +1020,265 @@ Cap\'{\i }tulo 5.
 
 ] [14] [15]
 Cap\'{\i }tulo 6.
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 528.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\Delta' on input line 528.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 528.
-
 [16
 
-] [17]
+]
 Cap\'{\i }tulo 7.
 
-
-pdfTeX warning: pdflatex (file d:/___UFM-Cursos___/3_5_Semestre-[Mayo-Julio-2020]/____SumaDeCursosUFM2.2____/____Teorias_Monetarias___/Repasos/Repaso_Teorias_Monetarias/figs/EC_01.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<figs/EC_01.pdf, id=423, 614.295pt x 794.97pt>
-File: figs/EC_01.pdf Graphic file (type pdf)
-<use figs/EC_01.pdf>
-Package pdftex.def Info: figs/EC_01.pdf  used on input line 544.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 532.
 
 
-pdfTeX warning: pdflatex (file d:/___UFM-Cursos___/3_5_Semestre-[Mayo-Julio-2020]/____SumaDeCursosUFM2.2____/____Teorias_Monetarias___/Repasos/Repaso_Teorias_Monetarias/figs/EC_01.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-File: figs/EC_01.pdf Graphic file (type pdf)
-<use figs/EC_01.pdf>
-Package pdftex.def Info: figs/EC_01.pdf  used on input line 544.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\Delta' on input line 532.
 
 
-pdfTeX warning: pdflatex (file d:/___UFM-Cursos___/3_5_Semestre-[Mayo-Julio-2020]/____SumaDeCursosUFM2.2____/____Teorias_Monetarias___/Repasos/Repaso_Teorias_Monetarias/figs/EC_01.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 532.
 
+[17
 
-pdfTeX warning: pdflatex (file d:/___UFM-Cursos___/3_5_Semestre-[Mayo-Julio-2020]/____SumaDeCursosUFM2.2____/____Teorias_Monetarias___/Repasos/Repaso_Teorias_Monetarias/figs/EC_01.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<figs/EC_01.pdf, id=426, page=1, 614.295pt x 794.97pt>
-File: figs/EC_01.pdf Graphic file (type pdf)
-<use figs/EC_01.pdf, page 1>
-Package pdftex.def Info: figs/EC_01.pdf , page1 used on input line 544.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-File: figs/EC_01.pdf Graphic file (type pdf)
-<use figs/EC_01.pdf, page 1>
-Package pdftex.def Info: figs/EC_01.pdf , page1 used on input line 544.
-(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-[18
-
-]
-File: figs/EC_01.pdf Graphic file (type pdf)
-<use figs/EC_01.pdf, page 1>
-Package pdftex.def Info: figs/EC_01.pdf , page1 used on input line 544.
-(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: figs/EC_01.pdf Graphic file (type pdf)
-<use figs/EC_01.pdf, page 1>
-Package pdftex.def Info: figs/EC_01.pdf , page1 used on input line 544.
-(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: figs/EC_01.pdf Graphic file (type pdf)
-<use figs/EC_01.pdf, page 1>
-Package pdftex.def Info: figs/EC_01.pdf , page1 used on input line 544.
-(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [19 <d:/___UFM-Cursos___/3_5_Semestre-[Mayo-Julio-2020]/____SumaDeCursosUFM2.2____/____Teorias_Monetarias___/Repasos/Repaso_Teorias_Monetarias/figs/EC_01.pdf>]
-
-pdfTeX warning: pdflatex (file d:/___UFM-Cursos___/3_5_Semestre-[Mayo-Julio-2020]/____SumaDeCursosUFM2.2____/____Teorias_Monetarias___/Repasos/Repaso_Teorias_Monetarias/figs/EC_01.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<figs/EC_01.pdf, id=451, page=2, 614.295pt x 794.97pt>
-File: figs/EC_01.pdf Graphic file (type pdf)
-<use figs/EC_01.pdf, page 2>
-Package pdftex.def Info: figs/EC_01.pdf , page2 used on input line 544.
-(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: figs/EC_01.pdf Graphic file (type pdf)
-<use figs/EC_01.pdf, page 2>
-Package pdftex.def Info: figs/EC_01.pdf , page2 used on input line 544.
-(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: figs/EC_01.pdf Graphic file (type pdf)
-<use figs/EC_01.pdf, page 2>
-Package pdftex.def Info: figs/EC_01.pdf , page2 used on input line 544.
-(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-[20 <d:/___UFM-Cursos___/3_5_Semestre-[Mayo-Julio-2020]/____SumaDeCursosUFM2.2____/____Teorias_Monetarias___/Repasos/Repaso_Teorias_Monetarias/figs/EC_01.pdf>]
-
-pdfTeX warning: pdflatex (file d:/___UFM-Cursos___/3_5_Semestre-[Mayo-Julio-2020]/____SumaDeCursosUFM2.2____/____Teorias_Monetarias___/Repasos/Repaso_Teorias_Monetarias/figs/EC_02.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<figs/EC_02.pdf, id=464, 614.295pt x 794.97pt>
-File: figs/EC_02.pdf Graphic file (type pdf)
-<use figs/EC_02.pdf>
-Package pdftex.def Info: figs/EC_02.pdf  used on input line 545.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-
-
-pdfTeX warning: pdflatex (file d:/___UFM-Cursos___/3_5_Semestre-[Mayo-Julio-2020]/____SumaDeCursosUFM2.2____/____Teorias_Monetarias___/Repasos/Repaso_Teorias_Monetarias/figs/EC_02.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-File: figs/EC_02.pdf Graphic file (type pdf)
-<use figs/EC_02.pdf>
-Package pdftex.def Info: figs/EC_02.pdf  used on input line 545.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-
-
-pdfTeX warning: pdflatex (file d:/___UFM-Cursos___/3_5_Semestre-[Mayo-Julio-2020]/____SumaDeCursosUFM2.2____/____Teorias_Monetarias___/Repasos/Repaso_Teorias_Monetarias/figs/EC_02.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-
-
-pdfTeX warning: pdflatex (file d:/___UFM-Cursos___/3_5_Semestre-[Mayo-Julio-2020]/____SumaDeCursosUFM2.2____/____Teorias_Monetarias___/Repasos/Repaso_Teorias_Monetarias/figs/EC_02.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<figs/EC_02.pdf, id=467, page=1, 614.295pt x 794.97pt>
-File: figs/EC_02.pdf Graphic file (type pdf)
-<use figs/EC_02.pdf, page 1>
-Package pdftex.def Info: figs/EC_02.pdf , page1 used on input line 545.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-File: figs/EC_02.pdf Graphic file (type pdf)
-<use figs/EC_02.pdf, page 1>
-Package pdftex.def Info: figs/EC_02.pdf , page1 used on input line 545.
-(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: figs/EC_02.pdf Graphic file (type pdf)
-<use figs/EC_02.pdf, page 1>
-Package pdftex.def Info: figs/EC_02.pdf , page1 used on input line 545.
-(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: figs/EC_02.pdf Graphic file (type pdf)
-<use figs/EC_02.pdf, page 1>
-Package pdftex.def Info: figs/EC_02.pdf , page1 used on input line 545.
-(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: figs/EC_02.pdf Graphic file (type pdf)
-<use figs/EC_02.pdf, page 1>
-Package pdftex.def Info: figs/EC_02.pdf , page1 used on input line 545.
-(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-[21 <d:/___UFM-Cursos___/3_5_Semestre-[Mayo-Julio-2020]/____SumaDeCursosUFM2.2____/____Teorias_Monetarias___/Repasos/Repaso_Teorias_Monetarias/figs/EC_02.pdf>]
-
-pdfTeX warning: pdflatex (file d:/___UFM-Cursos___/3_5_Semestre-[Mayo-Julio-2020]/____SumaDeCursosUFM2.2____/____Teorias_Monetarias___/Repasos/Repaso_Teorias_Monetarias/figs/EC_02.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<figs/EC_02.pdf, id=490, page=2, 614.295pt x 794.97pt>
-File: figs/EC_02.pdf Graphic file (type pdf)
-<use figs/EC_02.pdf, page 2>
-Package pdftex.def Info: figs/EC_02.pdf , page2 used on input line 545.
-(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: figs/EC_02.pdf Graphic file (type pdf)
-<use figs/EC_02.pdf, page 2>
-Package pdftex.def Info: figs/EC_02.pdf , page2 used on input line 545.
-(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: figs/EC_02.pdf Graphic file (type pdf)
-<use figs/EC_02.pdf, page 2>
-Package pdftex.def Info: figs/EC_02.pdf , page2 used on input line 545.
-(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-[22 <d:/___UFM-Cursos___/3_5_Semestre-[Mayo-Julio-2020]/____SumaDeCursosUFM2.2____/____Teorias_Monetarias___/Repasos/Repaso_Teorias_Monetarias/figs/EC_02.pdf>]
-<figs/Tarea02-DavidCorzo-20190432.pdf, id=496, 883.3pt x 1298.8525pt>
-File: figs/Tarea02-DavidCorzo-20190432.pdf Graphic file (type pdf)
-<use figs/Tarea02-DavidCorzo-20190432.pdf>
-Package pdftex.def Info: figs/Tarea02-DavidCorzo-20190432.pdf  used on input line 546.
-(pdftex.def)             Requested size: 883.29785pt x 1298.84933pt.
-File: figs/Tarea02-DavidCorzo-20190432.pdf Graphic file (type pdf)
-<use figs/Tarea02-DavidCorzo-20190432.pdf>
-Package pdftex.def Info: figs/Tarea02-DavidCorzo-20190432.pdf  used on input line 546.
-(pdftex.def)             Requested size: 883.29785pt x 1298.84933pt.
-<figs/Tarea02-DavidCorzo-20190432.pdf, id=499, page=1, 883.3pt x 1298.8525pt>
-File: figs/Tarea02-DavidCorzo-20190432.pdf Graphic file (type pdf)
-<use figs/Tarea02-DavidCorzo-20190432.pdf, page 1>
-Package pdftex.def Info: figs/Tarea02-DavidCorzo-20190432.pdf , page1 used on input line 546.
-(pdftex.def)             Requested size: 883.29785pt x 1298.84933pt.
-File: figs/Tarea02-DavidCorzo-20190432.pdf Graphic file (type pdf)
-<use figs/Tarea02-DavidCorzo-20190432.pdf, page 1>
-Package pdftex.def Info: figs/Tarea02-DavidCorzo-20190432.pdf , page1 used on input line 546.
-(pdftex.def)             Requested size: 540.9822pt x 795.48972pt.
-File: figs/Tarea02-DavidCorzo-20190432.pdf Graphic file (type pdf)
-<use figs/Tarea02-DavidCorzo-20190432.pdf, page 1>
-Package pdftex.def Info: figs/Tarea02-DavidCorzo-20190432.pdf , page1 used on input line 546.
-(pdftex.def)             Requested size: 540.9822pt x 795.48972pt.
-File: figs/Tarea02-DavidCorzo-20190432.pdf Graphic file (type pdf)
-<use figs/Tarea02-DavidCorzo-20190432.pdf, page 1>
-Package pdftex.def Info: figs/Tarea02-DavidCorzo-20190432.pdf , page1 used on input line 546.
-(pdftex.def)             Requested size: 540.9822pt x 795.48972pt.
-File: figs/Tarea02-DavidCorzo-20190432.pdf Graphic file (type pdf)
-<use figs/Tarea02-DavidCorzo-20190432.pdf, page 1>
-Package pdftex.def Info: figs/Tarea02-DavidCorzo-20190432.pdf , page1 used on input line 546.
-(pdftex.def)             Requested size: 540.9822pt x 795.48972pt.
- [23 <d:/___UFM-Cursos___/3_5_Semestre-[Mayo-Julio-2020]/____SumaDeCursosUFM2.2____/____Teorias_Monetarias___/Repasos/Repaso_Teorias_Monetarias/figs/Tarea02-DavidCorzo-20190432.pdf>]
-<figs/Tarea02-DavidCorzo-20190432.pdf, id=513, page=2, 883.3pt x 1298.8525pt>
-File: figs/Tarea02-DavidCorzo-20190432.pdf Graphic file (type pdf)
-<use figs/Tarea02-DavidCorzo-20190432.pdf, page 2>
-Package pdftex.def Info: figs/Tarea02-DavidCorzo-20190432.pdf , page2 used on input line 546.
-(pdftex.def)             Requested size: 540.9822pt x 795.48972pt.
-File: figs/Tarea02-DavidCorzo-20190432.pdf Graphic file (type pdf)
-<use figs/Tarea02-DavidCorzo-20190432.pdf, page 2>
-Package pdftex.def Info: figs/Tarea02-DavidCorzo-20190432.pdf , page2 used on input line 546.
-(pdftex.def)             Requested size: 540.9822pt x 795.48972pt.
-File: figs/Tarea02-DavidCorzo-20190432.pdf Graphic file (type pdf)
-<use figs/Tarea02-DavidCorzo-20190432.pdf, page 2>
-Package pdftex.def Info: figs/Tarea02-DavidCorzo-20190432.pdf , page2 used on input line 546.
-(pdftex.def)             Requested size: 540.9822pt x 795.48972pt.
- [24 <d:/___UFM-Cursos___/3_5_Semestre-[Mayo-Julio-2020]/____SumaDeCursosUFM2.2____/____Teorias_Monetarias___/Repasos/Repaso_Teorias_Monetarias/figs/Tarea02-DavidCorzo-20190432.pdf>]
-<figs/Tarea02-DavidCorzo-20190432.pdf, id=522, page=3, 883.3pt x 1298.8525pt>
-File: figs/Tarea02-DavidCorzo-20190432.pdf Graphic file (type pdf)
-<use figs/Tarea02-DavidCorzo-20190432.pdf, page 3>
-Package pdftex.def Info: figs/Tarea02-DavidCorzo-20190432.pdf , page3 used on input line 546.
-(pdftex.def)             Requested size: 540.9822pt x 795.48972pt.
-File: figs/Tarea02-DavidCorzo-20190432.pdf Graphic file (type pdf)
-<use figs/Tarea02-DavidCorzo-20190432.pdf, page 3>
-Package pdftex.def Info: figs/Tarea02-DavidCorzo-20190432.pdf , page3 used on input line 546.
-(pdftex.def)             Requested size: 540.9822pt x 795.48972pt.
-File: figs/Tarea02-DavidCorzo-20190432.pdf Graphic file (type pdf)
-<use figs/Tarea02-DavidCorzo-20190432.pdf, page 3>
-Package pdftex.def Info: figs/Tarea02-DavidCorzo-20190432.pdf , page3 used on input line 546.
-(pdftex.def)             Requested size: 540.9822pt x 795.48972pt.
- [25 <d:/___UFM-Cursos___/3_5_Semestre-[Mayo-Julio-2020]/____SumaDeCursosUFM2.2____/____Teorias_Monetarias___/Repasos/Repaso_Teorias_Monetarias/figs/Tarea02-DavidCorzo-20190432.pdf>]
+] [18]
 Cap\'{\i }tulo 8.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [26
+pdfTeX warning: pdflatex (file d:/___UFM-Cursos___/3_5_Semestre-[Mayo-Julio-2020]/____SumaDeCursosUFM2.2____/____Teorias_Monetarias___/Repasos/Repaso_Teorias_Monetarias/figs/EC_01.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<figs/EC_01.pdf, id=427, 614.295pt x 794.97pt>
+File: figs/EC_01.pdf Graphic file (type pdf)
+<use figs/EC_01.pdf>
+Package pdftex.def Info: figs/EC_01.pdf  used on input line 548.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+
+
+pdfTeX warning: pdflatex (file d:/___UFM-Cursos___/3_5_Semestre-[Mayo-Julio-2020]/____SumaDeCursosUFM2.2____/____Teorias_Monetarias___/Repasos/Repaso_Teorias_Monetarias/figs/EC_01.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+File: figs/EC_01.pdf Graphic file (type pdf)
+<use figs/EC_01.pdf>
+Package pdftex.def Info: figs/EC_01.pdf  used on input line 548.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+
+
+pdfTeX warning: pdflatex (file d:/___UFM-Cursos___/3_5_Semestre-[Mayo-Julio-2020]/____SumaDeCursosUFM2.2____/____Teorias_Monetarias___/Repasos/Repaso_Teorias_Monetarias/figs/EC_01.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+
+
+pdfTeX warning: pdflatex (file d:/___UFM-Cursos___/3_5_Semestre-[Mayo-Julio-2020]/____SumaDeCursosUFM2.2____/____Teorias_Monetarias___/Repasos/Repaso_Teorias_Monetarias/figs/EC_01.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<figs/EC_01.pdf, id=430, page=1, 614.295pt x 794.97pt>
+File: figs/EC_01.pdf Graphic file (type pdf)
+<use figs/EC_01.pdf, page 1>
+Package pdftex.def Info: figs/EC_01.pdf , page1 used on input line 548.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: figs/EC_01.pdf Graphic file (type pdf)
+<use figs/EC_01.pdf, page 1>
+Package pdftex.def Info: figs/EC_01.pdf , page1 used on input line 548.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+[19
 
 ]
-Overfull \vbox (13.98119pt too high) has occurred while \output is active []
+File: figs/EC_01.pdf Graphic file (type pdf)
+<use figs/EC_01.pdf, page 1>
+Package pdftex.def Info: figs/EC_01.pdf , page1 used on input line 548.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: figs/EC_01.pdf Graphic file (type pdf)
+<use figs/EC_01.pdf, page 1>
+Package pdftex.def Info: figs/EC_01.pdf , page1 used on input line 548.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: figs/EC_01.pdf Graphic file (type pdf)
+<use figs/EC_01.pdf, page 1>
+Package pdftex.def Info: figs/EC_01.pdf , page1 used on input line 548.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [20 <d:/___UFM-Cursos___/3_5_Semestre-[Mayo-Julio-2020]/____SumaDeCursosUFM2.2____/____Teorias_Monetarias___/Repasos/Repaso_Teorias_Monetarias/figs/EC_01.pdf>]
 
- [27] [28]
+pdfTeX warning: pdflatex (file d:/___UFM-Cursos___/3_5_Semestre-[Mayo-Julio-2020]/____SumaDeCursosUFM2.2____/____Teorias_Monetarias___/Repasos/Repaso_Teorias_Monetarias/figs/EC_01.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<figs/EC_01.pdf, id=455, page=2, 614.295pt x 794.97pt>
+File: figs/EC_01.pdf Graphic file (type pdf)
+<use figs/EC_01.pdf, page 2>
+Package pdftex.def Info: figs/EC_01.pdf , page2 used on input line 548.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: figs/EC_01.pdf Graphic file (type pdf)
+<use figs/EC_01.pdf, page 2>
+Package pdftex.def Info: figs/EC_01.pdf , page2 used on input line 548.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: figs/EC_01.pdf Graphic file (type pdf)
+<use figs/EC_01.pdf, page 2>
+Package pdftex.def Info: figs/EC_01.pdf , page2 used on input line 548.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+[21 <d:/___UFM-Cursos___/3_5_Semestre-[Mayo-Julio-2020]/____SumaDeCursosUFM2.2____/____Teorias_Monetarias___/Repasos/Repaso_Teorias_Monetarias/figs/EC_01.pdf>]
+
+pdfTeX warning: pdflatex (file d:/___UFM-Cursos___/3_5_Semestre-[Mayo-Julio-2020]/____SumaDeCursosUFM2.2____/____Teorias_Monetarias___/Repasos/Repaso_Teorias_Monetarias/figs/EC_02.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<figs/EC_02.pdf, id=468, 614.295pt x 794.97pt>
+File: figs/EC_02.pdf Graphic file (type pdf)
+<use figs/EC_02.pdf>
+Package pdftex.def Info: figs/EC_02.pdf  used on input line 549.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+
+
+pdfTeX warning: pdflatex (file d:/___UFM-Cursos___/3_5_Semestre-[Mayo-Julio-2020]/____SumaDeCursosUFM2.2____/____Teorias_Monetarias___/Repasos/Repaso_Teorias_Monetarias/figs/EC_02.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+File: figs/EC_02.pdf Graphic file (type pdf)
+<use figs/EC_02.pdf>
+Package pdftex.def Info: figs/EC_02.pdf  used on input line 549.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+
+
+pdfTeX warning: pdflatex (file d:/___UFM-Cursos___/3_5_Semestre-[Mayo-Julio-2020]/____SumaDeCursosUFM2.2____/____Teorias_Monetarias___/Repasos/Repaso_Teorias_Monetarias/figs/EC_02.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+
+
+pdfTeX warning: pdflatex (file d:/___UFM-Cursos___/3_5_Semestre-[Mayo-Julio-2020]/____SumaDeCursosUFM2.2____/____Teorias_Monetarias___/Repasos/Repaso_Teorias_Monetarias/figs/EC_02.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<figs/EC_02.pdf, id=471, page=1, 614.295pt x 794.97pt>
+File: figs/EC_02.pdf Graphic file (type pdf)
+<use figs/EC_02.pdf, page 1>
+Package pdftex.def Info: figs/EC_02.pdf , page1 used on input line 549.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: figs/EC_02.pdf Graphic file (type pdf)
+<use figs/EC_02.pdf, page 1>
+Package pdftex.def Info: figs/EC_02.pdf , page1 used on input line 549.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: figs/EC_02.pdf Graphic file (type pdf)
+<use figs/EC_02.pdf, page 1>
+Package pdftex.def Info: figs/EC_02.pdf , page1 used on input line 549.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: figs/EC_02.pdf Graphic file (type pdf)
+<use figs/EC_02.pdf, page 1>
+Package pdftex.def Info: figs/EC_02.pdf , page1 used on input line 549.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: figs/EC_02.pdf Graphic file (type pdf)
+<use figs/EC_02.pdf, page 1>
+Package pdftex.def Info: figs/EC_02.pdf , page1 used on input line 549.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+[22 <d:/___UFM-Cursos___/3_5_Semestre-[Mayo-Julio-2020]/____SumaDeCursosUFM2.2____/____Teorias_Monetarias___/Repasos/Repaso_Teorias_Monetarias/figs/EC_02.pdf>]
+
+pdfTeX warning: pdflatex (file d:/___UFM-Cursos___/3_5_Semestre-[Mayo-Julio-2020]/____SumaDeCursosUFM2.2____/____Teorias_Monetarias___/Repasos/Repaso_Teorias_Monetarias/figs/EC_02.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<figs/EC_02.pdf, id=494, page=2, 614.295pt x 794.97pt>
+File: figs/EC_02.pdf Graphic file (type pdf)
+<use figs/EC_02.pdf, page 2>
+Package pdftex.def Info: figs/EC_02.pdf , page2 used on input line 549.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: figs/EC_02.pdf Graphic file (type pdf)
+<use figs/EC_02.pdf, page 2>
+Package pdftex.def Info: figs/EC_02.pdf , page2 used on input line 549.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: figs/EC_02.pdf Graphic file (type pdf)
+<use figs/EC_02.pdf, page 2>
+Package pdftex.def Info: figs/EC_02.pdf , page2 used on input line 549.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+[23 <d:/___UFM-Cursos___/3_5_Semestre-[Mayo-Julio-2020]/____SumaDeCursosUFM2.2____/____Teorias_Monetarias___/Repasos/Repaso_Teorias_Monetarias/figs/EC_02.pdf>]
+<figs/Tarea02-DavidCorzo-20190432.pdf, id=500, 883.3pt x 1298.8525pt>
+File: figs/Tarea02-DavidCorzo-20190432.pdf Graphic file (type pdf)
+<use figs/Tarea02-DavidCorzo-20190432.pdf>
+Package pdftex.def Info: figs/Tarea02-DavidCorzo-20190432.pdf  used on input line 550.
+(pdftex.def)             Requested size: 883.29785pt x 1298.84933pt.
+File: figs/Tarea02-DavidCorzo-20190432.pdf Graphic file (type pdf)
+<use figs/Tarea02-DavidCorzo-20190432.pdf>
+Package pdftex.def Info: figs/Tarea02-DavidCorzo-20190432.pdf  used on input line 550.
+(pdftex.def)             Requested size: 883.29785pt x 1298.84933pt.
+<figs/Tarea02-DavidCorzo-20190432.pdf, id=503, page=1, 883.3pt x 1298.8525pt>
+File: figs/Tarea02-DavidCorzo-20190432.pdf Graphic file (type pdf)
+<use figs/Tarea02-DavidCorzo-20190432.pdf, page 1>
+Package pdftex.def Info: figs/Tarea02-DavidCorzo-20190432.pdf , page1 used on input line 550.
+(pdftex.def)             Requested size: 883.29785pt x 1298.84933pt.
+File: figs/Tarea02-DavidCorzo-20190432.pdf Graphic file (type pdf)
+<use figs/Tarea02-DavidCorzo-20190432.pdf, page 1>
+Package pdftex.def Info: figs/Tarea02-DavidCorzo-20190432.pdf , page1 used on input line 550.
+(pdftex.def)             Requested size: 540.9822pt x 795.48972pt.
+File: figs/Tarea02-DavidCorzo-20190432.pdf Graphic file (type pdf)
+<use figs/Tarea02-DavidCorzo-20190432.pdf, page 1>
+Package pdftex.def Info: figs/Tarea02-DavidCorzo-20190432.pdf , page1 used on input line 550.
+(pdftex.def)             Requested size: 540.9822pt x 795.48972pt.
+File: figs/Tarea02-DavidCorzo-20190432.pdf Graphic file (type pdf)
+<use figs/Tarea02-DavidCorzo-20190432.pdf, page 1>
+Package pdftex.def Info: figs/Tarea02-DavidCorzo-20190432.pdf , page1 used on input line 550.
+(pdftex.def)             Requested size: 540.9822pt x 795.48972pt.
+File: figs/Tarea02-DavidCorzo-20190432.pdf Graphic file (type pdf)
+<use figs/Tarea02-DavidCorzo-20190432.pdf, page 1>
+Package pdftex.def Info: figs/Tarea02-DavidCorzo-20190432.pdf , page1 used on input line 550.
+(pdftex.def)             Requested size: 540.9822pt x 795.48972pt.
+ [24 <d:/___UFM-Cursos___/3_5_Semestre-[Mayo-Julio-2020]/____SumaDeCursosUFM2.2____/____Teorias_Monetarias___/Repasos/Repaso_Teorias_Monetarias/figs/Tarea02-DavidCorzo-20190432.pdf>]
+<figs/Tarea02-DavidCorzo-20190432.pdf, id=517, page=2, 883.3pt x 1298.8525pt>
+File: figs/Tarea02-DavidCorzo-20190432.pdf Graphic file (type pdf)
+<use figs/Tarea02-DavidCorzo-20190432.pdf, page 2>
+Package pdftex.def Info: figs/Tarea02-DavidCorzo-20190432.pdf , page2 used on input line 550.
+(pdftex.def)             Requested size: 540.9822pt x 795.48972pt.
+File: figs/Tarea02-DavidCorzo-20190432.pdf Graphic file (type pdf)
+<use figs/Tarea02-DavidCorzo-20190432.pdf, page 2>
+Package pdftex.def Info: figs/Tarea02-DavidCorzo-20190432.pdf , page2 used on input line 550.
+(pdftex.def)             Requested size: 540.9822pt x 795.48972pt.
+File: figs/Tarea02-DavidCorzo-20190432.pdf Graphic file (type pdf)
+<use figs/Tarea02-DavidCorzo-20190432.pdf, page 2>
+Package pdftex.def Info: figs/Tarea02-DavidCorzo-20190432.pdf , page2 used on input line 550.
+(pdftex.def)             Requested size: 540.9822pt x 795.48972pt.
+ [25 <d:/___UFM-Cursos___/3_5_Semestre-[Mayo-Julio-2020]/____SumaDeCursosUFM2.2____/____Teorias_Monetarias___/Repasos/Repaso_Teorias_Monetarias/figs/Tarea02-DavidCorzo-20190432.pdf>]
+<figs/Tarea02-DavidCorzo-20190432.pdf, id=527, page=3, 883.3pt x 1298.8525pt>
+File: figs/Tarea02-DavidCorzo-20190432.pdf Graphic file (type pdf)
+<use figs/Tarea02-DavidCorzo-20190432.pdf, page 3>
+Package pdftex.def Info: figs/Tarea02-DavidCorzo-20190432.pdf , page3 used on input line 550.
+(pdftex.def)             Requested size: 540.9822pt x 795.48972pt.
+File: figs/Tarea02-DavidCorzo-20190432.pdf Graphic file (type pdf)
+<use figs/Tarea02-DavidCorzo-20190432.pdf, page 3>
+Package pdftex.def Info: figs/Tarea02-DavidCorzo-20190432.pdf , page3 used on input line 550.
+(pdftex.def)             Requested size: 540.9822pt x 795.48972pt.
+File: figs/Tarea02-DavidCorzo-20190432.pdf Graphic file (type pdf)
+<use figs/Tarea02-DavidCorzo-20190432.pdf, page 3>
+Package pdftex.def Info: figs/Tarea02-DavidCorzo-20190432.pdf , page3 used on input line 550.
+(pdftex.def)             Requested size: 540.9822pt x 795.48972pt.
+ [26 <d:/___UFM-Cursos___/3_5_Semestre-[Mayo-Julio-2020]/____SumaDeCursosUFM2.2____/____Teorias_Monetarias___/Repasos/Repaso_Teorias_Monetarias/figs/Tarea02-DavidCorzo-20190432.pdf>]
 Cap\'{\i }tulo 9.
-<figs/Captura.PNG, id=540, 894.34125pt x 586.44093pt>
-File: figs/Captura.PNG Graphic file (type png)
-<use figs/Captura.PNG>
-Package pdftex.def Info: figs/Captura.PNG  used on input line 618.
-(pdftex.def)             Requested size: 398.33858pt x 261.20251pt.
-<figs/Captura1.PNG, id=542, 687.31781pt x 730.22812pt>
-File: figs/Captura1.PNG Graphic file (type png)
-<use figs/Captura1.PNG>
-Package pdftex.def Info: figs/Captura1.PNG  used on input line 622.
-(pdftex.def)             Requested size: 398.33858pt x 423.20947pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [29
+ [27
 
- <d:/___UFM-Cursos___/3_5_Semestre-[Mayo-Julio-2020]/____SumaDeCursosUFM2.2____/____Teorias_Monetarias___/Repasos/Repaso_Teorias_Monetarias/figs/Captura.PNG>] [30 <d:/___UFM-Cursos___/3_5_Semestre-[Mayo-Julio-2020]/____SumaDeCursosUFM2.2____/____Teorias_Monetarias___/Repasos/Repaso_Teorias_Monetarias/figs/Captura1.PNG>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 629.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 629.
+]
+Overfull \vbox (23.32722pt too high) has occurred while \output is active []
+
+ [28] [29]
+Cap\'{\i }tulo 10.
+<figs/Captura.PNG, id=544, 894.34125pt x 586.44093pt>
+File: figs/Captura.PNG Graphic file (type png)
+<use figs/Captura.PNG>
+Package pdftex.def Info: figs/Captura.PNG  used on input line 626.
+(pdftex.def)             Requested size: 398.33858pt x 261.20251pt.
+<figs/Captura1.PNG, id=546, 687.31781pt x 730.22812pt>
+File: figs/Captura1.PNG Graphic file (type png)
+<use figs/Captura1.PNG>
+Package pdftex.def Info: figs/Captura1.PNG  used on input line 630.
+(pdftex.def)             Requested size: 398.33858pt x 423.20947pt.
+<figs/Captura2.png, id=547, 1927.2pt x 1084.05pt>
+File: figs/Captura2.png Graphic file (type png)
+<use figs/Captura2.png>
+Package pdftex.def Info: figs/Captura2.png  used on input line 634.
+(pdftex.def)             Requested size: 398.33858pt x 224.05122pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [30
+
+ <d:/___UFM-Cursos___/3_5_Semestre-[Mayo-Julio-2020]/____SumaDeCursosUFM2.2____/____Teorias_Monetarias___/Repasos/Repaso_Teorias_Monetarias/figs/Captura.PNG>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [31 <d:/___UFM-Cursos___/3_5_Semestre-[Mayo-Julio-2020]/____SumaDeCursosUFM2.2____/____Teorias_Monetarias___/Repasos/Repaso_Teorias_Monetarias/figs/Captura1.PNG>] [32 <d:/___UFM-Cursos___/3_5_Semestre-[Mayo-Julio-2020]/____SumaDeCursosUFM2.2____/____Teorias_Monetarias___/Repasos/Repaso_Teorias_Monetarias/figs/Captura2.png>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 641.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 641.
  (d:/___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\Repaso_Teorias_Monetarias.aux
 LaTeX Info: Redefining \. on input line 24.
 LaTeX Info: Redefining \% on input line 24.
 LaTeX Info: Redefining \. on input line 25.
 LaTeX Info: Redefining \% on input line 25.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 629.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 629.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 641.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 641.
 Package rerunfilecheck Info: File `Repaso_Teorias_Monetarias.out' has not changed.
-(rerunfilecheck)             Checksum: 52F61D53BA10F330967187B50ECFEEF1;4198.
+(rerunfilecheck)             Checksum: FE886210E70D8F6C04917A17E02E6934;4188.
  ) 
 Here is how much of TeX's memory you used:
- 35159 strings out of 480900
- 725984 string characters out of 2908365
- 1067896 words of memory out of 3000000
- 50171 multiletter control sequences out of 15000+200000
+ 35168 strings out of 480900
+ 726116 string characters out of 2908365
+ 1067900 words of memory out of 3000000
+ 50176 multiletter control sequences out of 15000+200000
  539259 words of font info for 49 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,18n,107p,1778b,1092s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\DAVIDCORZO\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on d:/___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\Repaso_Teorias_Monetarias.pdf (30 pages, 2571250 bytes).
+Output written on d:/___UFM-Cursos___\3_5_Semestre-[Mayo-Julio-2020]\____SumaDeCursosUFM2.2____\____Teorias_Monetarias___\Repasos\Repaso_Teorias_Monetarias\Repaso_Teorias_Monetarias.pdf (32 pages, 3340859 bytes).
 PDF statistics:
- 613 PDF objects out of 1000 (max. 8388607)
- 102 named destinations out of 1000 (max. 500000)
- 679 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 625 PDF objects out of 1000 (max. 8388607)
+ 104 named destinations out of 1000 (max. 500000)
+ 684 words of extra memory for PDF output out of 10000 (max. 10000000)
 
