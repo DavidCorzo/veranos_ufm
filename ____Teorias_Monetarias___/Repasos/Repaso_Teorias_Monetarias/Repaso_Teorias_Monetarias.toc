@@ -58,5 +58,7 @@
 \contentsline {section}{\numberline {7.3}Funding investment}{17}{section.7.3}%
 \contentsline {section}{\numberline {7.4}Three tools of central bank to $\Delta m2$ }{17}{section.7.4}%
 \contentsline {chapter}{\numberline {8}Quiz}{19}{chapter.8}%
-\contentsline {chapter}{\numberline {9}Formulary}{27}{chapter.9}%
-\contentsline {chapter}{\numberline {10}Figures}{30}{chapter.10}%
+\contentsline {chapter}{\numberline {9}Areas compared 2017}{27}{chapter.9}%
+\contentsline {chapter}{\numberline {10}Formulary}{28}{chapter.10}%
+\contentsline {chapter}{\numberline {11}Figures}{31}{chapter.11}%
+\contentsline {chapter}{\numberline {12}Summary on chapter 6}{34}{chapter.12}%
